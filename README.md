@@ -25,7 +25,8 @@
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/Kshitij-Sharma7/Kshitij-Sharma7/master/res/c++_logo.png" />][cpp]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Kshitij-Sharma7/Kshitij-Sharma7/master/res/git_logo.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Kshitij-Sharma7/Kshitij-Sharma7/master/res/github_logo.png" />][github]
-
+[<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/Kshitij-Sharma7/Kshitij-Sharma7/master/res/arduino_logo.png" />][arduino]
+[<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/Kshitij-Sharma7/Kshitij-Sharma7/master/res/raspberry_pi_logo.png" />][rpi]
 <br />
 <br />
 <br />
@@ -40,3 +41,5 @@
 [cpp]: https://en.wikipedia.org/wiki/C%2B%2B
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[arduino]:https://www.arduino.cc/
+[rpi]:https://www.raspberrypi.org/
